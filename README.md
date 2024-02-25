@@ -3,4 +3,4 @@ changement à merger dans main
 application java
 test 
 push 2
-test 25 févrierrrrsdgedfgsdfsdvd
+test 25 FEVRIER
